@@ -1,0 +1,6 @@
+## Project Deliverables (suggested)
+- Cleaned dataset (place in data/)
+- EDA notebook or report (notebook/ or reports/)
+- Trained model artifacts (artifacts/)
+- Streamlit app (app.py)
+- Short report with insights (REPORT.md)
